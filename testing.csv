@@ -1,0 +1,5 @@
+Name on Intake,Intake DateTime,Intake Type,Intake Condition,Sex upon Intake,Name on Outcome,Outcome DateTime,Date of Birth,Outcome Type,Animal Type,Sex upon Outcome,Breed,Color,Age Upon Intake,Age Upon Outcome,Days in Shelter
+1,5/10/2021,Stray,Normal,Intact Male,1,5/10/2021,4/18/2021,Transfer,Cat,Intact Male,Domestic Shorthair Mix,Orange Tabby,22,22,0
+1,5/10/2021,Owner Surrender,Normal,Neutered Male,1,5/11/2021,1/10/2019,Adoption,Dog,Neutered Male,Border Terrier Mix,Brown,851,852,1
+0,5/10/2021,Stray,Pregnant,Intact Female,0,5/11/2021,5/10/2018,Transfer,Dog,Intact Female,Pit Bull/Australian Cattle Dog,White/Brown,1096,1097,1
+1,5/9/2021,Owner Surrender,Normal,Spayed Female,1,5/12/2021,10/1/2020,Adoption,Dog,Spayed Female,Nova Scotia Duck Tolling Retriever,Brown/White,220,223,3
